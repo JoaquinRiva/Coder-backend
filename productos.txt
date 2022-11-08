@@ -1,0 +1,1 @@
+[{"tittle":"Escuadra","price":125,"thumbnail":"google.com","id":1},{"tittle":"Lapiz","price":50,"thumbnail":"google.com","id":2},{"tittle":"Regla","price":150,"thumbnail":"google.com","id":3}]

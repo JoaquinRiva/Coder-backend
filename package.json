@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaquinRiva/Coder-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoaquinRiva/Coder-backend/issues"
+  },
+  "homepage": "https://github.com/JoaquinRiva/Coder-backend#readme",
+  "description": ""
+}
